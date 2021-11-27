@@ -1,0 +1,1 @@
+const CONFIG_BACKEND_URL = 'https://osrs-gim-backend.herokuapp.com/'
